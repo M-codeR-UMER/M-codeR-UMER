@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alber </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=null7&label=Profile%20views&color=0e75b6&style=flat" alt="null7" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning, LLMS and NLP**
+- 🌱 I’m currently learning **Deep Learning, LLM and NLP**
 
 - 💬 Ask me about **Supervised Learning, SQL, DSA, Data Science**
 
