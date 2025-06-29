@@ -11,7 +11,7 @@ I'm always open to opportunities . Feel free to reach out.
 
 - 📧 Email: [albermalik111@gmail.com](mailto:albermalik111@gmail.com)
 - 🧑‍💼 LinkedIn: [linkedin.com/in/muhammadalber](https://www.linkedin.com/in/muhammadalber/)
-- 💻 GitHub: [github.com/albermalik](https://github.com/albermalik)
+- 💻 GitHub: [github.com/albermalik](https://github.com/M-codeR-UMER)
 
 > 💡 You can also find more of my work and projects in the repositories section.
 
